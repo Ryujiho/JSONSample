@@ -1,0 +1,7 @@
+{
+  "people" : [
+    { "name" : "Eunmin Kim", "age" : "30" },
+    { "name" : "Lee", "age" : "10" },
+    { "name" : "Park", "age" : "20" }
+  ]
+}
